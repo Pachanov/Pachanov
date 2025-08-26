@@ -1,8 +1,12 @@
-### Olá! 👋
+##Olá! 👋
+É um prazer ter você por aqui!
 
-- 🔭 Atualmente estou trabalhando em projetos de análise de dados com Python, Pandas e NumPy.
-- 🌱 Atualmente estou aprendendo novas tecnologias para enfrentar desafios complexos, como Normalização e Integração de Dados.
-- 👯 Procuro colaborar em projetos de desenvolvimento full-stack, especialmente aqueles que envolvem Python e SQL.
-- 💬 Me pergunte sobre análise de dados, Python e desenvolvimento full-stack.
-- 📫 Como me contatar: https://www.linkedin.com/in/victor-hugo-pachano-maurera-073aa5189/
--->
+O que me move: Atualmente, estou imerso em projetos de análise de dados com Python, Pandas e NumPy, transformando números em narrativas.
+
+Minha busca: Estou em constante aprendizado, focando em Normalização e Integração de Dados para resolver desafios complexos.
+
+Vamos colaborar? Se você tem um projeto de desenvolvimento full-stack ou usa SQL, adoraria trabalhar junto.
+
+Vamos nos conectar? Sinta-se à vontade para me contatar no LinkedIn:
+
+LinkedIn: https://www.linkedin.com/in/victor-hugo-pachano-maurera-073aa5189/
