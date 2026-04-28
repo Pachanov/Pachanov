@@ -9,4 +9,4 @@
 
 **Vamos nos conectar?** Sinta-se à vontade para me contatar no LinkedIn:
 
-https://www.linkedin.com/in/victor-hugo-pachano-maurera-073aa5189/
+https://www.linkedin.com/in/victorhugopachanomaurera/
